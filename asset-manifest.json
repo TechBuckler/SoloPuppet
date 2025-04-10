@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/SoloPuppet/static/css/main.f855e6bc.css",
-    "main.js": "/SoloPuppet/static/js/main.5b5bb619.js",
+    "main.css": "/SoloPuppet/static/css/main.aefc6fcc.css",
+    "main.js": "/SoloPuppet/static/js/main.e889a25d.js",
+    "static/js/952.b5e24137.chunk.js": "/SoloPuppet/static/js/952.b5e24137.chunk.js",
     "static/js/453.d053255c.chunk.js": "/SoloPuppet/static/js/453.d053255c.chunk.js",
     "index.html": "/SoloPuppet/index.html",
-    "main.f855e6bc.css.map": "/SoloPuppet/static/css/main.f855e6bc.css.map",
-    "main.5b5bb619.js.map": "/SoloPuppet/static/js/main.5b5bb619.js.map",
+    "main.aefc6fcc.css.map": "/SoloPuppet/static/css/main.aefc6fcc.css.map",
+    "main.e889a25d.js.map": "/SoloPuppet/static/js/main.e889a25d.js.map",
+    "952.b5e24137.chunk.js.map": "/SoloPuppet/static/js/952.b5e24137.chunk.js.map",
     "453.d053255c.chunk.js.map": "/SoloPuppet/static/js/453.d053255c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.5b5bb619.js"
+    "static/css/main.aefc6fcc.css",
+    "static/js/main.e889a25d.js"
   ]
 }
